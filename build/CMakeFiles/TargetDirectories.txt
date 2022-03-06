@@ -1,0 +1,3 @@
+/u/anushkak/Downloads/opencv_hw_template/build/CMakeFiles/rebuild_cache.dir
+/u/anushkak/Downloads/opencv_hw_template/build/CMakeFiles/cvexample.dir
+/u/anushkak/Downloads/opencv_hw_template/build/CMakeFiles/edit_cache.dir

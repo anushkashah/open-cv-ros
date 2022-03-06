@@ -1,0 +1,36 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/u/anushkak/Downloads/opencv_hw_template/ColorFilter.cpp
+ColorFilter.h
+/u/anushkak/Downloads/opencv_hw_template/ColorFilter.h
+
+/u/anushkak/Downloads/opencv_hw_template/ColorFilter.h
+opencv2/opencv.hpp
+-
+string
+-
+vector
+-
+
+/u/anushkak/Downloads/opencv_hw_template/ReadAVI.cpp
+ReadAVI.h
+/u/anushkak/Downloads/opencv_hw_template/ReadAVI.h
+ColorFilter.h
+/u/anushkak/Downloads/opencv_hw_template/ColorFilter.h
+
+/u/anushkak/Downloads/opencv_hw_template/ReadAVI.h
+opencv2/opencv.hpp
+-
+
+/u/anushkak/Downloads/opencv_hw_template/cvexample.cpp
+ColorFilter.h
+/u/anushkak/Downloads/opencv_hw_template/ColorFilter.h
+ReadAVI.h
+/u/anushkak/Downloads/opencv_hw_template/ReadAVI.h
+
